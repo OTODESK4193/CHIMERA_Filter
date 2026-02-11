@@ -3,6 +3,8 @@
   <p><i>A filter for perverts, by perverts, for perverts</i></p>
 </div
 
+![スクリーンショット](./Screenshot.jpg)
+
 ## ⚠️ 重要な安全上の警告
 
 **本プラグインを使用する前に、必ずお読みください。**
