@@ -28,7 +28,7 @@ CHIMERA Filterは高いレゾナンス設定や特定のフィルタータイプ
 
 👉 **[Download FDN Reverb v1.0.0 (GitHub Releases)](https://github.com/OTODESK4193/CHIMERA_Filter/releases/tag/%EF%BD%961.0.0)**
 
-![Downloads](https://img.shields.io/github/downloads/OTODESK4193/FDN-Reverb/total.svg)
+![Downloads](https://img.shields.io/github/downloads/OTODESK4193/CHIMERA_Filter/total.svg)
 ---
 
 ## 目次
