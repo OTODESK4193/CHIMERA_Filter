@@ -1,6 +1,6 @@
 <div align="center">
   <img src="./chimera_logo.png" width="400" alt="chimera　Logo">
-  <p><i>Advanced 16-Channel Physics-Based Reverb & SFX Engine</i></p>
+  <p><i>A filter for perverts, by perverts, for perverts</i></p>
 </div
 
 ## ⚠️ 重要な安全上の警告
