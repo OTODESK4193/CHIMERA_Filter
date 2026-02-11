@@ -1,4 +1,7 @@
-
+<div align="center">
+  <img src="./logo.png" width="400" alt="FDN Reverb Logo">
+  <p><i>Advanced 16-Channel Physics-Based Reverb & SFX Engine</i></p>
+</div
 
 ## ⚠️ 重要な安全上の警告
 
