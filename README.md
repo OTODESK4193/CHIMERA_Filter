@@ -22,6 +22,14 @@ CHIMERA Filterは高いレゾナンス設定や特定のフィルタータイプ
 **免責事項：** 本プラグインの使用により生じた聴覚障害、機材の損傷、その他いかなる損害についても、開発者は一切の責任を負いません。ユーザー自身の責任において、適切な音量管理を行ってください。
 
 ---
+### 📥 Download
+
+最新のビルド済みプラグイン（VST3）は、以下の **Releases** ページからダウンロードしてください。
+
+👉 **[Download FDN Reverb v1.0.0 (GitHub Releases)](https://github.com/OTODESK4193/FDN-Reverb/releases/tag/v1.0.0)**
+
+![Downloads](https://img.shields.io/github/downloads/OTODESK4193/FDN-Reverb/total.svg)
+---
 
 ## 目次
 
