@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./logo.png" width="400" alt="FDN Reverb Logo">
+  <img src="./chimera_logo.png" width="400" alt="chimera　Logo">
   <p><i>Advanced 16-Channel Physics-Based Reverb & SFX Engine</i></p>
 </div
 
